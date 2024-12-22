@@ -98,7 +98,7 @@ There are also two disadvantages to using WebRTC this way.
 │                          │     │                 │         ▼          │  │     
 │      Pipecat Client      │     │   ┌─────────────│   Gemini Flash    ─┼──┼────►
 │    ┌───────────────┐     │     │   │             │   Transcription   ◄┼──┼─────
-│    │ WebRTC (Daily)│ ────┼────────►│WebRTC (Daily│         ▼          │  │     
+│    │ WebRTC (Daily)│ ────┼────────►│WebRTC (Daily)         ▼          │  │     
 │    │   Transport   │ ◄───┼─────────│  Transport  │  Gemini Multimodal─┼──┼────►
 │    └───────────────┘     │     │   │             │     Live API      ◄┼──┼─────
 │                          │     │   └─────────────│         ▼          │  │     
