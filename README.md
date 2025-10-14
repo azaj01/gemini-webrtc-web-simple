@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repo is no longer maintained. Checkout [pipecat-examples](https://github.com/pipecat-ai/pipecat-examples) for recent demos and example code. 
+
 # Gemini Multimodal Live WebRTC Example
 
 This example shows how to build a very simple voice AI application using the Gemini Multimodal Live API and WebRTC.
